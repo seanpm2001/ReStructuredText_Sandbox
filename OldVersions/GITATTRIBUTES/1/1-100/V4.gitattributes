@@ -1,0 +1,121 @@
+# Start of script
+# .gitattributes
+# This file defines what languages can show up in the GitHub linguist menu (the menu that tells you what percentage each language is using up on this project.
+# Some non-programming languages must be included manually with this file. Want to create your own? Do something similar to what is done here, and name the file
+# .gitattributes
+# and nothing else, no characters before, no characters after
+# Start of linguist script
+# HTML (HyperText Markup Language) document
+*.htm linguist-detectable=false
+*.htm linguist-documentation=false
+*.html linguist-detectable=false
+*.html linguist-documentation=false
+*.mhtm linguist-detectable=false
+*.mhtm linguist-documentation=false
+*.mhtml linguist-detectable=false
+*.mhtml linguist-documentation=false
+*.xhtm linguist-detectable=false
+*.xhtm linguist-documentation=false
+*.xhtml linguist-detectable=false
+*.xhtml linguist-documentation=false
+# HTA (HTML Application) file
+*.hta linguist-detectable=false
+*.hta linguist-documentation=false
+# CSS (Cascade Styling Sheets) stylesheet file
+*.css linguist-detectable=false
+*.css linguist-documentation=false
+# Less stylesheet file
+*.less linguist-detectable=false
+*.less linguist-documentation=false
+# QML (QT Modeling Language) source file
+*.qml linguist-detectable=false
+*.qml linguist-documentation=false
+# JS (JavaScript) source file
+*.js linguist-detectable=false
+*.js linguist-documentation=false
+# JSON (JavaScript Object Notation) source file
+*.json linguist-detectable=false
+*.json linguist-documentation=false
+# PHP (PHP HyperText Preprocessor) source file
+*.php linguist-detectable=false
+*.php linguist-documentation=false
+# Pug source file
+*.pug linguist-detectable=false
+*.pug linguist-documentation=false
+# Python source file
+*.py linguist-detectable=false
+*.py linguist-documentation=false
+# WebVTT subtitle file
+*.vtt linguist-detectable=false
+*.vtt linguist-documentation=false
+# ReStructuredText
+*.rst linguist-detectable=true
+*.rst linguist-documentation=false
+# Ruby source file
+*.rb linguist-detectable=false
+*.rb linguist-documentation=false
+*.rake linguist-detectable=false
+*.rake linguist-documentation=false
+*.rakefile linguist-detectable=false
+*.rakefile linguist-documentation=false
+*gemfile linguist-detectable=false
+*gemfile linguist-documentation=false
+# YAML (YAML Ain't Markup Language) document
+# Do not include, as it would become a dominant language that shouldn't be the language people refer this project to
+*.yml linguist-detectable=false
+*.yml linguist-documentation=false
+*.yaml linguist-detectable=false
+*.yaml linguist-documentation=false
+# Markdown
+# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
+*.md linguist-detectable=false
+*.md linguist-documentation=false
+*.mkd linguist-detectable=false
+*.mkd linguist-documentation=false
+*.mdown linguist-detectable=false
+*.mdown linguist-documentation=false
+*.markdown linguist-detectable=false
+*.markdown linguist-documentation=false
+# Makefile (GNU Make)
+# Do not include, as it is not needed to be shown
+*.mk linguist-detectable=false
+*.mk linguist-documentation=false
+*.mak linguist-detectable=false
+*.mak linguist-documentation=false
+*.make linguist-detectable=false
+*.make linguist-documentation=false
+*.makefile linguist-detectable=false
+*.makefile linguist-documentation=false
+# SVG (Scalable Vector Graphics) image file
+# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
+*.svg linguist-detectable=false
+*.svg linguist-documentation=false
+# ROFF
+*.roff linguist-detectable=false
+*.roff linguist-documentation=false
+*.0 linguist-detectable=false
+*.0 linguist-documentation=false
+*.1 linguist-detectable=false
+*.1 linguist-documentation=false
+*.2 linguist-detectable=false
+*.2 linguist-documentation=false
+*.3 linguist-detectable=false
+*.3 linguist-documentation=false
+# Git Configuration files
+# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
+*.gitattributes linguist-detectable=false
+*.gitattributes linguist-documentation=false
+*.gitignore linguist-detectable=false
+*.gitignore linguist-documentation=false
+*.editorconfig linguist-detectable=false
+*.editorconfig linguist-documentation=false
+# Plain Text document
+# Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
+*.txt linguist-detectable=false
+*.txt linguist-documentation=false
+# End of linguist script
+# File info
+# File type: gitattributes file (.gitattributes)
+# File version: 4 (Wednesday, 2022 March 9th at 3:34 pm)
+# Line count (including blank lines and compiler line): 122
+# End of script
