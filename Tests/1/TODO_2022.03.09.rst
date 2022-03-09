@@ -6,12 +6,12 @@ What I am trying to learn today (2022 March 9th)
 
 - Comments
 - Code blocks
-- Hyperlinks
-- Anchor hyperlinks
+- [x] Hyperlinks
+- [x] Anchor hyperlinks
 - Images
 
 ----
 
-***File version:** *1 (2022, Wednesday, March 9th at 3:29 pm)*
+***File version:** 2 (2022, Wednesday, March 9th at 3:57 pm)*
 
 ----
