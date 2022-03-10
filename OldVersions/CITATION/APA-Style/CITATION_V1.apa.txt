@@ -1,0 +1,1 @@
+Myrick family, S. P. M. (2022). ReStructuredText_Sandbox is a learning project by @seanpm2001 to test features and learn the ReStructuredText markup language. If you use this project in your works, it is recommended that you cite it. [Data set]. https://doi.org/10.0000/00000
