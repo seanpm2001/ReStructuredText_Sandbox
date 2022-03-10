@@ -1,0 +1,16 @@
+python
+testing
+syntax
+gplv3
+test
+sandbox
+restructured-text
+restructuredtext
+py
+rst
+md
+txt
+gpl3
+seanpm2001
+restructuredtext-sandbox
+seanpm2001-sandbox
