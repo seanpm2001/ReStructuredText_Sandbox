@@ -1,21 +1,43 @@
 
----
+----
+
+== Credits ==
 
 {{int:version-credits-summary}}
-This Miscellaneous project by Seanpm2001 is a collaborative project released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
+Seanpm2001/ReStructuredText_Sandbox is a semi-collaborative project, and it is released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
 
-This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
+<!-- This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
 
-== Maintainers ==
+=== Maintainers ===
+
 <!-- BEGIN MAINTAINERS LIST !-->
 
-1. @seanpm2001 - Creator and primary maintainer of this project
-2. No other contributors as of Monday, August 23rd 2021
+1. @seanpm2001 - Creator and primary maintainer of ReStructuredText_Sandbox
 
-== Contributors ==
+2. @all-contributors[bot]
+
+3. No other contributors as of Wednesday, 2022, March 9th at 5:45 pm
+
+=== Contributors ===
+
 <!-- BEGIN CONTRIBUTOR LIST -->
-1. @seanpm2001
-2. @GitHub (For being the first host of this project)
-3. No other contributors as of Monday, August 23rd 2021
 
----
+1. @seanpm2001
+
+2. @all-contributors[bot]
+
+3. @GitHub (For GitHub, and for being the first host of this project)
+
+4. To the creators of ReStructuredText for the language that is the center of thi project.
+
+5. No other contributors as of Wednesday, 2022, March 9th at 5:45 pm
+
+=== File info ===
+
+<b>File type:</b> <i>MediaWiki document (*.wiki)</i>
+
+<b>File version:</b> <i>2 (2022, Wednesday, March 9th at 5:45 pm)</i>
+
+<b>Line count (including blank lines and compiler line):</b> <i>44</i>
+
+----
